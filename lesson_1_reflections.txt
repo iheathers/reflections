@@ -1,0 +1,38 @@
+##How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Uisng the diff (fc in windows), i could actually see the changes made in the file in any line between new and old files. That's interesting!!
+
+##What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros of manual saving:
+@you can commit at each logical change as you want
+@its is your choice when u commit so, everything depends on your judgement 
+
+cons:
+@ Since this is your choice it may not be always good judgement
+@ The commits can be too long or short 
+
+Pros of automatic saving:
+@ You dont need to worry if you commited or not
+@ All depends on the efficiency of the version control system you are using
+Cons:
+@It can not be sure that the commit is created at each logical change 
+@ The change cannot be understood if the change is being made and the computer commited automatically in the middel of the change
+
+##Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+While writing codes, the files are actually interrelated. It's better to track change made in one file that might change the other file. So, version control systems like Git allow saving files in one commit. Google docs are usually for official purpose and documents. It's better to make change and treat them seperately.
+
+##How can you use the commands git log and git diff to view the history of files?
+
+@ git log gives general overview of the changes made, the commit message , date of manipulation, author.
+@git diff gives actual change made in the code.
+
+##How might using version control make you more confident to make changes that could break something?
+
+@ I could always return to previous checkpoint and see where i did wrong. I can do mistake confidently now.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+@ns:
+I would like to see it in action.
