@@ -5,3 +5,11 @@ when i initialize a repository, i can keep track of its metadata if i want (mayb
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 @It is intermediate state. It allows you to think over before you make any changes to repository. It allows you to allocate file(s) that you want to commit.
+
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+Though i have changed two or more files, i can add one (more) that has single logical change to staging area and add commit to it.
+That way the work is done.
