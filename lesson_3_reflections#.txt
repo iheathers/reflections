@@ -1,0 +1,3 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+That's my choice to either pull the change and stay on my own track of business.
