@@ -26,3 +26,7 @@ diagrams shows relations between parent and child commits(or you can say so), it
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 @ns:
 i can get updated file with both the feature that i merged. We represent it in the diagram as we usually do because it makes easy  for us to visualize the concept.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+They come with their own pros and cons. And you know it.
