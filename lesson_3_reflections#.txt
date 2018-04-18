@@ -6,3 +6,6 @@ Describe the differences between forks, clones, and branches. When would you use
 Forking allows to clone within github
 clone allows to clone within local as well as from remote to local
 Branching is just going two or different ways instead of linear path change 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can diverge out from your updated branch to continue with the latest synced state, view changes and merge finally.
